@@ -55,7 +55,7 @@
     "Dependencies\\EloBuddy.Networking.dll": {
       "MD5": "930f59fe04cc2f72653e92c78a2e9233",
       "Download": "https://github.com/Fireballll/EB-Leaks/raw/master/EloBuddy.Networking.dll"
-    },
+},
     "Settings\\Languages\\Chinese.xml": {
       "MD5": "c79cafd9709991de4083d7d94e36fe48",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Languages/Chinese.xml"
@@ -410,7 +410,7 @@
         }
       }
     },
-	"ad6b1133dfaf8a0ffce5e96aa99c11f0": {
+	"eee359636a48f8780730a8b2034fa9c0": {
       "Files": {
         "System\\EloBuddy.dll": {
           "MD5": "91ebd4bca2b9b9bd9aad74f5810265fc",
@@ -422,7 +422,7 @@
         }
       }
     },
-	 "ad6b1133dfaf8a0ffce5e96aa99c11f0": {
+	"ad6b1133dfaf8a0ffce5e96aa99c11f0": {
       "Files": {
         "System\\EloBuddy.dll": {
           "MD5": "91ebd4bca2b9b9bd9aad74f5810265fc",
