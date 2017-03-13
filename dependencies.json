@@ -12,13 +12,13 @@
       "MD5": "b77f5f6e2b0a1d128753470ebf4c8e68",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/LibGit2Sharp.dll"
     },
-    "System\\EloBuddy.Sandbox.dll": {
-      "MD5": "3a42d82574b5c3645ed18c5f70ca6dd6",
-      "Download": "https://github.com/Fireballll/EB-Leaks/raw/master/EloBuddy.Sandbox.dll"
+      "System\\EloBuddy.Sandbox.dll": {
+      "MD5": "47a31c57f9586ba8140f93c30c72f375",
+      "Download": "https://raw.github.com/Dekryptor/LeakElo/master/EloBuddy.Sandbox.dll"
     },
     "System\\EloBuddy.SDK.dll": {
       "MD5": "d26636e4a38a71f344fa971a0bda8448",
-      "Download": "https://github.com/Fireballll/EB-Leaks/raw/master/EB%20Loader/EloBuddy.SDK.dll"
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.SDK.dll"
     },
     "System\\Newtonsoft.Json.dll": {
       "MD5": "95e24268172c8908f5b2c906b90a92a7",
