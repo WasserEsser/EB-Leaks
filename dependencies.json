@@ -12,12 +12,12 @@
       "MD5": "b77f5f6e2b0a1d128753470ebf4c8e68",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/LibGit2Sharp.dll"
     },
-      "System\\EloBuddy.Sandbox.dll": {
-      "MD5": "47a31c57f9586ba8140f93c30c72f375",
+    "System\\EloBuddy.Sandbox.dll": {
+      "MD5": "af40fd0c36859bbc70c6b61fe4004a37",
       "Download": "https://github.com/Fireballll/EB-Leaks/raw/master/EB%20SDK/EloBuddy.SDK/EloBuddy.Sandbox.dll"
     },
     "System\\EloBuddy.SDK.dll": {
-      "MD5": "d26636e4a38a71f344fa971a0bda8448",
+      "MD5": "0f39c85d5359596d96db7fdfbde1f4e8",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.SDK.dll"
     },
     "System\\Newtonsoft.Json.dll": {
@@ -431,6 +431,18 @@
         "System\\EloBuddy.Core.dll": {
           "MD5": "b68c2c221e169251c011515b8aab15a1",
           "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/7.5/EloBuddy.Core.dll"
+        }
+      }
+    },
+	"edef5c032ef8bfac2ace29a6bdfe1a29": {
+      "Files": {
+        "System\\EloBuddy.dll": {
+          "MD5": "014f6280fd5bd0ca717f227b7a232f54",
+          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/7.6/EloBuddy.dll"
+        },
+        "System\\EloBuddy.Core.dll": {
+          "MD5": "fe4518e9faa887209934e9b9ac0f1664",
+          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/7.6/EloBuddy.Core.dll"
         }
       }
     }
