@@ -16,6 +16,10 @@
       "MD5": "2e99b2bc0f737cf98de6b726e5ff6bab",
       "Download": "https://github.com/Fireballll/EB-Leaks/blob/master/EloBuddy.Sandbox.dll?raw=true"
     },
+     "System\\EloBuddy.Fedora.dll": {
+    "MD5": "f878d212e41691db1d16212fb6688d72",
+    "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.Fedora.dll"
+    },
     "System\\EloBuddy.SDK.dll": {
       "MD5": "6245dc76068189d07263d2454a7f343d",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.SDK.dll"
